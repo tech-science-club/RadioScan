@@ -168,6 +168,8 @@ class Bar(MDScreen):            # ----------> real time plotting
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         self.x_axes = []
+        for i in range(24):        
+	        self.x_axes.append(0)  
         self.y_axes = []
         self.t = 0
         self.graph = Graph(xlabel='time',
@@ -248,9 +250,6 @@ class Bar(MDScreen):            # ----------> real time plotting
         if len(self.x_axes) > 25:
             self.x_axes.pop(0)
 
-        if len(self.y_axes)>40:
-            self.y_axes.pop(0)
-
         print(self.x_axes)
         print(self.y_axes)
 
@@ -302,7 +301,7 @@ class Data_base(MDScreen):      # ----------> retrieving  data from web server, 
         ax1.plot(x, y, 'r-', label = "Radiation")
         #ax1.set_xlabel('time (s)')
         ax1.set_ylabel('Activity 1/h', color='g')
-        ax1.set_ylim(500, 2200)
+        ax1.set_ylim(500, 1800)
         ax1.tick_params(axis='y', labelcolor=color)
         ax1.tick_params(axis="x", rotation=75)
 
