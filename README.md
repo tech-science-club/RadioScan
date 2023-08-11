@@ -15,8 +15,8 @@ Software reads data via serial comunication through bluetooth or usb-connemction
 - reaching data from databese and build plot with information within desirable scopes
 
 
-![screen1](https://github.com/techmadman/RadioScan/assets/130900888/1a1e7a76-d27c-4c03-b4a2-1254b4069570)
-![screen2](https://github.com/techmadman/RadioScan/assets/130900888/0e515a62-c832-4b85-9699-ef3520943f5c)
-![screen3](https://github.com/techmadman/RadioScan/assets/130900888/132f74d7-2c17-43b9-930b-40b1d9f245ad)
 
-![Без имени](https://github.com/techmadman/RadioScan/assets/130900888/af68cbba-bb8d-4935-aced-256a89b74bac)
+![Без имени](https://github.com/techmadman/RadioScan/assets/130900888/fdebc2a3-95cb-487e-a8b3-9edc7f53eafa)
+![screen1](https://github.com/techmadman/RadioScan/assets/130900888/90e84dd2-be47-470e-8bc5-65019d8214a1)
+![screen2](https://github.com/techmadman/RadioScan/assets/130900888/42cbea03-68c0-45c8-9eb9-9d9091a21167)
+![screen3](https://github.com/techmadman/RadioScan/assets/130900888/eb431987-3545-45a8-adde-d5e86271e191)
