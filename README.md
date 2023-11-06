@@ -20,4 +20,5 @@ Software reads data via serial comunication through bluetooth or usb-connemction
 ![screen1](https://github.com/techmadman/RadioScan/assets/130900888/90e84dd2-be47-470e-8bc5-65019d8214a1)
 ![screen2](https://github.com/techmadman/RadioScan/assets/130900888/42cbea03-68c0-45c8-9eb9-9d9091a21167)
 ![screen3](https://github.com/techmadman/RadioScan/assets/130900888/eb431987-3545-45a8-adde-d5e86271e191)
-![geiger_conter](https://github.com/techmadman/RadioScan/assets/130900888/72aa72f4-32e9-4993-ad13-48b5544d2a27)
+
+![Radioscan 1 0](https://github.com/techmadman/RadioScan/assets/130900888/190d2ebd-e451-4d89-ab41-dcd6e8adc14f)
