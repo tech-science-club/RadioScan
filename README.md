@@ -9,10 +9,17 @@ connection and access to cloud server database, pass data to there and colect it
 - dht11 temperature sensor
 - bluetooth HC-05
 - Arduino Geiger counter kit with J305 tube
-Software reads data via serial comunication through bluetooth or usb-connemction and displays retrieved information on the screen. There are available 3 windows:
+- ESP 8266 Node mcu 
+
+Software reads data via serial comunication through bluetooth or usb-connemction and displays retrieved information on the screen. 
+Python App using pyserial library reads end encode data into string and and sequently gives as possibilities to treat data as we wish.
+Using cloud web services we can store our data into web server, database and web table. Python libraries give as great oportunities to extract, 
+convert data in desired view.
+
+ There are available 3 windows:
 - real time measurement
 - real time activity in plot mode
-- reaching data from databese and build plot with information within desirable scopes
+- reaching data from databese and build plot with information within desirable time scopes
 
 
 
